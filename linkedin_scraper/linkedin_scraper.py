@@ -18,8 +18,8 @@ class LinkedInScraper():
 
 
         #Credentials
-        self.email = 'rex.von.brixon.apa-ap@eee.upd.edu.ph'
-        self.password = 'bryitkids'
+        self.email = ''
+        self.password = ''
 
     def _explicitwait(self,):
 

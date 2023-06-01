@@ -18,8 +18,8 @@ links = [
     for acc in file.readlines()
 ]
 
-my_secret_user = 'jamesscaifeupwork2@gmail.com'
-my_secret_pass = 'upwork2021&'
+my_secret_user = ''
+my_secret_pass = ''
 
 while True:
 
